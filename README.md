@@ -43,9 +43,9 @@ cd ferramas_api
 2. Crea y activa un entorno virtual
 
 python -m venv venv
-source venv/bin/activate  # En Mac/Linux
-# o
-venv\Scripts\activate     # En Windows
+source venv/bin/activate  * En Mac/Linux
+
+venv\Scripts\activate     * En Windows
 
 3. Instala las dependencias
 pip install -r requirements.txt
