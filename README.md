@@ -76,7 +76,7 @@ Conexión a internet
 
 Cuenta Transbank (para producción)
 
-Base de datos (SQLite o alternativa)
+Base de datos (MySql o alternativa)
 
 👨‍💻 Autores
 
